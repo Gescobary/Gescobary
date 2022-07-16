@@ -8,6 +8,9 @@
 
 <h3 align="center">Datos interesantes del desarrollo web::thinking:</h3>
 
+![Aspectos positivos del desarrollo web](https://user-images.githubusercontent.com/79013322/179337772-68c5e991-bc3b-4c08-9668-9754a8e9b08c.jpg)
+
+
 <h3>1.Ventajas del desarrollo web a medida:ok_hand:</h3>
 <h3>2.Diseño web único y adaptado:thumbsup:</h3>
 <h3>3.Optimización para los motores de búsqueda:running:</h3>
